@@ -4,11 +4,11 @@ CSS Masterclass course (Flexbox, Grid, PostCSS, CSSNext)
 
 ### CSS Flex
 
-- [ ] CSS Flex Bascis
-- [ ] Main Axis and Cross Axis
-- [ ] Flex Direction
-- [ ] Flex Wrap
-- [ ] Align Self
+- [x] CSS Flex Bascis
+- [x] Main Axis and Cross Axis
+- [x] Flex Direction
+- [x] Flex Wrap
+- [x] Align Self
 
 ### CSS Grid
 
